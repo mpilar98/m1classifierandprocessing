@@ -1,5 +1,5 @@
 # m1classifierandprocessing
-In this repositorie you can find both apps: m1processing and m1classifier, their project (.prj), their installers (.malappinstall), and all the code in the corresponding folders.
+In this repositorie you can find both apps: m1processing and m1classifier, their project (.prj), their installers (.mlappinstall), and all the code in the corresponding folders.
 1. m1processing let to process and prepare the "Recortes" and "Esquemas" to their posterior study, and to create or expand the data base. The options of m1processing are:
 
     1.1 Orient images (function Orientar_molar): let to modify the orientation of the images.
