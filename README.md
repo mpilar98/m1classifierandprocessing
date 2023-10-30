@@ -1,5 +1,5 @@
 # m1classifierandprocessing
-In this repositorie you can find both: apps m1processing and m1 classifier.
+In this repositorie you can find both apps: m1processing and m1 classifier.
 1. m1processing let to process and prepare the "Recortes" and "Esquemas" to their posterior study, and to create or expand the data base. The options of m1processing are:
 
     1.1 Orient images (function Orientar_molar): let to modify the orientation of the images.
@@ -20,8 +20,8 @@ In this repositorie you can find both: apps m1processing and m1 classifier.
 
     2.2 Calibrate / Measure (funtion microMolar): let to measure and calibrate the images, using a reference scale (1mm)
 
-    2.3 Classify LDC/Hf Recorte (function Recorte) and Classify LDC/Hf Esquema (function Esquema):
+    2.3 Classify LDC/Hf Recorte (function Recorte) and Classify LDC/Hf Esquema (function Esquema): classifies the "Recortes" according Procustres, Fisher LDA and Hausdorff. Additionaly, it calculate the Van der Meulen indices. 
 
-    2.4 Classify Hf LOO folder Esquemas (function estimar_esquemasH) Classify Hf LOO folder Recortes (funtion estimar_recortesH):
+    2.4 Classify Hf LOO folder Esquemas (function estimar_esquemasH) Classify Hf LOO folder Recortes (funtion estimar_recortesH): classifies the "Esquemas" according Procustres, Fisher LDA and Hausdorff. Additionaly, it calculate the Van der Meulen indices.
 
     2.5 Manage reference file (Semiperidentales200.mat, Semicentroides200.mat) (function variedades_semi200): build the file .mat of the varities and let to modify it.
