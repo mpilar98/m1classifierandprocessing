@@ -14,14 +14,14 @@ In this repositorie you can find both apps: m1processing and m1classifier, their
 
     1.6 View file .mat / Crear fichero .tps: creates a .tps file for other types of analysis, with the information from the .mat file of the varieties.
 
-2. m1classifier let to classify the "Recortes" and "Esquemas" in study, comparing with the data base. The options of m1classifier are:
+2. m1classifier let to classify the "Recortes" and "Esquemas" in study, comparing them with the data base. The options of m1classifier are:
    
     2.1 Orient images (function Orientar_molar): let to modify the orientation of the images.
 
     2.2 Calibrate / Measure (funtion microMolar): let to measure and calibrate the images, using a reference scale (1mm)
 
-    2.3 Classify LDC/Hf Recorte (function Recorte) and Classify LDC/Hf Esquema (function Esquema): classifies the "Recortes" according Procustres, Fisher LDA and Hausdorff. Additionaly, it calculate the Van der Meulen indices. 
+    2.3 Classify LDC/Hf Recorte (function Recorte) and Classify LDC/Hf Esquema (function Esquema): classifies the "Recortes" and "Esquemas" according Procustres, Fisher LDA and Hausdorff. Additionaly, it calculate the Van der Meulen indices. 
 
-    2.4 Classify Hf LOO folder Esquemas (function estimar_esquemasH) Classify Hf LOO folder Recortes (funtion estimar_recortesH): classifies the "Esquemas" according Procustres, Fisher LDA and Hausdorff. Additionaly, it calculate the Van der Meulen indices.
+    2.4 Classify Hf LOO folder Esquemas (function estimar_esquemasH) Classify Hf LOO folder Recortes (funtion estimar_recortesH): classifies the "Esquemas" and "Recortes" of a folder according Procustres, Fisher LDA and Hausdorff. Additionaly, it calculate the Van der Meulen indices.
 
     2.5 Manage reference file (Semiperidentales200.mat, Semicentroides200.mat) (function variedades_semi200): build the file .mat of the varities and let to modify it.
