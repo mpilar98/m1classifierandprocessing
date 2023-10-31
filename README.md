@@ -6,9 +6,9 @@ In this repositorie you can find both apps: m1processing and m1classifier, their
    
     1.2 Calibrate / Measure (funtion microMolar): let to measure and calibrate the images, using a reference scale (1mm)
 
-    1.3 Process Esquema (function Esquema) and Process Recorte (function Recorte): let to process the images of "Esquemas" and "Recortes" respectively, identifying the semipremeter and defining the 200 point of the semiperimeter.
+    1.3 Process Esquema (function Esquema) and Process Recorte (function Recorte): let to process the images of "Esquemas" and "Recortes" respectively, identifying the semipremeter and defining the 200 points of the semiperimeter.
 
-    1.4 Characterized Esquemas (function muestreos_esquemas) and Characterized Recortes (function muestreos_recortes): let to process the images of "Esquemas" and "Recortes" respectively of a folder, and create the archive .mat of the samples, identifying the semipremeter and defining the 200 point of the semiperimeter.
+    1.4 Characterized Esquemas (function muestreos_esquemas) and Characterized Recortes (function muestreos_recortes): let to process the images of "Esquemas" and "Recortes" respectively of a folder, and create the archive .mat of the samples, identifying the semipremeter and defining the 200 points of the semiperimeter.
 
     1.5 Manage reference file (Semiperidentales200.mat, Semicentroides200.mat) (function variedades_semi200): build the file .mat of the varities and let to modify it.
 
