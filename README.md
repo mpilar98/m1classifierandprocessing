@@ -2,6 +2,7 @@
 In this repositorie you can find both apps: m1processing and m1classifier, their project (.prj), their installers (.mlappinstall), and all the code in the corresponding folders.
 
 Installation:
+
 To instal both programs you need to open de installers (.mlappinstall) in MatLab. MatLab can be downloaded from the official website.  
 For the proper functioning of the applications, you will need to have the following products installed in MatLab: MATLAB, Computer Vision System Toolbox, DSP System Toolbox, Image Processing Toolbox, Signal Processing Toolbox, and Statistics and Machine Learning Toolbox.
 
