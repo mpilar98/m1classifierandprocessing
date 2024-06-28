@@ -1,4 +1,5 @@
 # m1classifierandprocessing
+These apps and informatic procedure is registered at the University of Zaragoza (UNIZAR), with number of register PII-2023-0007. 
 In this repositorie you can find both apps: m1processing and m1classifier, their project (.prj), their installers (.mlappinstall), and all the code in the corresponding folders.
 
 Installation:
