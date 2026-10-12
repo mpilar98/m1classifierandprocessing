@@ -2,6 +2,8 @@
 These apps and informatic procedure is registered at the University of Zaragoza (UNIZAR), with number of register PII-2023-0007. 
 In this repositorie you can find both apps: m1processing and m1classifier, their project (.prj), their installers (.mlappinstall), and all the code in the corresponding folders.
 
+If you use this software please cite the following paper: Alfaro‐Ibáñez, M. P., Angel‐Beamonte, E., Domínguez‐García, A. C., & Cuenca‐Bescós, G. (2024). Informatic application to characterise and identify small mammal species: Arvicolinae (Cricetidae, Rodentia, Mammalia). Ecology And Evolution, 14(9), e70064. https://doi.org/10.1002/ece3.70064
+
 Installation:
 
 To instal both programs you need to open de installers (.mlappinstall) in MatLab. MatLab can be downloaded from the official website.  
